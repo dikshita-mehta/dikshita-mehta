@@ -1,7 +1,7 @@
 ###
-<h1>Hi everyone 👋 </h1>
-
-
+<p align ="center">
+<h1 align="center">Hi everyone 👋 </h1>
+</p>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dikshita-mehta&count_private=true&theme=tokyonight&showicons=true)]() [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikshita-mehta&theme=dark)](https://github.com/dikshita-mehta/github-readme-streak-stats)
 
