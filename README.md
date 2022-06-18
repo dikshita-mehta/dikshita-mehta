@@ -1,4 +1,5 @@
-### Hi there 👋
+###
+<h1>Hi everyone 👋 <br> I'm Dikshita Mehta</h1>
 
 <!--
 **dikshita-mehta/dikshita-mehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
