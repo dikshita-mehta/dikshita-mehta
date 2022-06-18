@@ -3,6 +3,8 @@
 <h1 align="center">Hi everyone 👋 </h1>
 </p>
 
+<!-- ![](https://komarev.com/ghpvc/?username=dikshita-mehta) -->
+
 <h1 align="center">My Github Stats </h1>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dikshita-mehta&count_private=true&theme=tokyonight&showicons=true)]() <p align="right">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikshita-mehta&theme=dark)](https://github.com/dikshita-mehta/github-readme-streak-stats)
@@ -16,7 +18,7 @@
 <div align="center">
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=dikshita-mehta&theme=onedark)](https://github.com/dikshita-mehta/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dikshita-mehta&theme=darkhub)](https://github.com/dikshita-mehta/github-profile-trophy)
   
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshita-mehta&langs_count=5&theme=tokyonight)]()
