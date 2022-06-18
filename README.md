@@ -18,7 +18,7 @@
 <div align="center">
   
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=dikshita-mehta&theme=darkhub)](https://github.com/dikshita-mehta/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dikshita-mehta&theme=darkhub)](https://github.com/dikshita-mehta/github-profile-trophy) -->
   
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshita-mehta&langs_count=5&theme=tokyonight)]()
