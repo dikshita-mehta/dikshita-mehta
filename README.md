@@ -12,6 +12,7 @@
   </p>
 
 <!--[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)-->
+<h3 align="center"> Dikshita's github activity graph </h3>
 
 [![Dikshita's github activity graph](https://activitygraph.herokuapp.com/graphusername=dikshitamehta&bg_color=121111&color=fdf7f7&line=ffffff&point=403d3d&area=true&hide_border=true)]
 (https://github.com/dikshita-mehta/github-readme-activity-graph)
