@@ -13,7 +13,7 @@
 
 <!--[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)-->
 
-[![Dikshita's github activity] graph(https://activity-graph.herokuapp.com/graph?username=dikshita-mehta&bg_color=121111&color=fdf7f7&line=ffffff&point=403d3d&area=true&hide_border=true)]
+[![Dikshita's github activity graph](https://activity-graph.herokuapp.com/graph?username=dikshita-mehta&bg_color=121111&color=fdf7f7&line=ffffff&point=403d3d&area=true&hide_border=true)]
 (https://github.com/dikshita-mehta/github-readme-activity-graph)
 
 <div align="center">
