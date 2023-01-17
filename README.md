@@ -11,11 +11,7 @@
   
   </p>
 
-
-
 <div align="center">
-  
-  
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dikshita-mehta&theme=darkhub)](https://github.com/dikshita-mehta/github-profile-trophy) -->
   
 
